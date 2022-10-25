@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gourav Yadav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" src=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gourav yadav" height="30" width="40" />" alt="gourav yadav" height="30" width="40" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="gouravyadavv" /> </p>
 
