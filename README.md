@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" height="180" width="320" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" alt="gourav yadav" height="30" width="40" />
 
-<br><br><p align="center"> <img height="50" width="300" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" alt="gouravyadavv" /> </p>
+<br><br><p align="center"> <img height="50" width="300" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=dc143c" alt="gouravyadavv" /> </p>
 
 <br><br><br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravyadavv" alt="gouravyadavv" /></a> </p>
 
