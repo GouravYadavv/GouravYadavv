@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://instagram.com/akshay_._ydv" target="blank"><img align="100" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_._ydv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcw2hZHxA9I6L_D-0O0xW2Q/featured" target="blank"><img align="center" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gourav yadav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gourav_2070181" target="blank"><img align="center" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gourav_2070181" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gourav_2070181" target="blank"><img align="-100" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gourav_2070181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
