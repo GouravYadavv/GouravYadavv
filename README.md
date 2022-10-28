@@ -17,8 +17,8 @@
 
 - 📫 How to reach me **gourav_207018@saitm.org**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center"><img src="https://thumbs.gfycat.com/HeftyGreenAidi-size_restricted.gif" width="100" style="max-width: 100%;">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/https://instagram.com/akshay_._ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/akshay_._ydv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccw2hzhxa9i6l_d-0o0xw2q/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccw2hzhxa9i6l_d-0o0xw2q/featured" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/gourav_2070181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gourav_2070181" height="30" width="40" /></a>
