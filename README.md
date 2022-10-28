@@ -8,6 +8,7 @@
 <h2>
   <img src="https://data.whicdn.com/images/163507025/original.gif" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;">
   I'm currently ...</h2>
+  
 - 🔭 Working on **My Skills**
 
 - 🌱 Learning **Kotlin**
