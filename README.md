@@ -5,12 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="gouravyadavv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h2>
+  <img src="https://data.whicdn.com/images/163507025/original.gif" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;">
+  I'm currently ...</h2>
+- 🔭 Working on **My Skills**
 
-- 🔭 I’m currently working on **My Skills**
+- 🌱 Learning **Kotlin**
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 Looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me **gourav_207018@saitm.org**
 
