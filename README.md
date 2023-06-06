@@ -9,13 +9,13 @@
   <img src="https://data.whicdn.com/images/163507025/original.gif" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;">
   I'm currently ...</h2>
   
-- 🔭 Working on **My Skills**
+- 🔭 Working on **Python**
 
-- 🌱 Learning **Kotlin**
+- 🌱 Learning **Django**
 
 - 👯 Looking to collaborate on **Machine Learning Projects**
 
-- 📫 How to reach me **gourav_207018@saitm.org**
+- 📫 How to reach me **Gouravyadav200220@gmail.com**
 
 <h3 align="center"><img src="https://thumbs.gfycat.com/HeftyGreenAidi-size_restricted.gif" width="100" style="max-width: 100%;">Connect with me:</h3>
 <p align="center">
