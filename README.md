@@ -1,41 +1,83 @@
-![MasterHead]
-![Dancing Cat](https://media.tenor.com/kF_GVQ3P6o8AAAAC/dancing-cat.gif)
-<h1 align="center">Hi<img src="https://media.baamboozle.com/uploads/images/113260/1638441862_32346_gif-url.gif" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;"> , I'm Gourav Yadav</h1>
-<h3 align="center">A passionate Software Engineering Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="gouravyadavv" /> </p>
+![Header](https://media.tenor.com/kF_GVQ3P6o8AAAAC/dancing-cat.gif)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h2>
-  <img src="https://data.whicdn.com/images/163507025/original.gif" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;">
-  I'm currently ...</h2>
-  
-- 🔭 Working on **Python**
+<h1 align="center">Hi there 👋, I'm Gourav Yadav</h1>
+<h3 align="center">Software Engineer Intern @ Autodesk | AI & Cloud Enthusiast | LeetCode AIR 341</h3>
 
-- 🌱 Learning **Django**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gouravyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="gouravyadavv" />
+</p>
 
-- 👯 Looking to collaborate on **Machine Learning Projects**
+---
 
-- 📫 How to reach me **Gouravyadav200220@gmail.com**
+### 💼 About Me
 
-<h3 align="center"><img src="https://thumbs.gfycat.com/HeftyGreenAidi-size_restricted.gif" width="100" style="max-width: 100%;">Connect with me:</h3>
+- 🔭 SDE at **Autodesk**
+- 👨‍💻 I'm focused on building **cost-efficient, scalable, and intelligent cloud solutions**
+- 💡 I love working with **Python, AWS, Docker, Kubernetes, Flask**, and **Machine Learning**
+- 🚀 I've built projects around **AWS optimization**, **Speech recognition**, and **EC2 automation**
+- 🧠 Constantly learning and growing in **Cloud DevOps, AI/ML**, and **System Design**
+- 🏆 Top 0.1% on LeetCode (AIR 341 in Weekly Contest 380)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://leetcode.com/Gourav-2002/" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-Gourav--2002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/gouravyadl7gl/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-gouravyadl7gl-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gourav-yadav-9b42481b4/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gourav%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### Tools & Frameworks
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-<a href="https://instagram.com/akshay_._ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/akshay_._ydv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uccw2hzhxa9i6l_d-0o0xw2q/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccw2hzhxa9i6l_d-0o0xw2q/featured" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gourav_2070181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gourav_2070181" height="30" width="40" /></a>
-<a href="https://leetcode.com/Gourav-2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Gourav-2002/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gouravyadl7gl/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gouravyadl7gl/practice" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravyadavv&show_icons=true&theme=tokyonight" alt="Gourav's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravyadavv&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="center"><img src="https://camo.githubusercontent.com/00098127108f610163aff07000d50766a2aedb7c32932c818ee223485618377d/68747470733a2f2f7468756d62732e6766796361742e636f6d2f5363617279437265616d79476c6f6265666973682e77656270" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravyadavv&show_icons=true&locale=en&layout=compact" alt="gouravyadavv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravyadavv&show_icons=true&locale=en" alt="gouravyadavv" />
-</p>
+### 🐍 Contribution Snake
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+### 📫 Let's Collaborate
+
+I'm always open to exciting projects in **Cloud, AI/ML, Automation, or Open Source**.
+Feel free to reach out: **Gouravyadav200220@gmail.com**
