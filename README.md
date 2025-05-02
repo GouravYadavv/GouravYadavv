@@ -41,8 +41,8 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-gouravyadl7gl-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/gourav-ydv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gourav--Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gourav-ydv" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gourav--Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
