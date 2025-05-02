@@ -35,3 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravyadavv&show_icons=true&locale=en" alt="gouravyadavv" />
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
