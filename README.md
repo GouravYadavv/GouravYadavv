@@ -1,112 +1,101 @@
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTg5OWQ0MzRmYjY5ZDI5MmM4YmY1NzFkYTM2M2JjMjJlMDk2ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)
+![Header](https://media.tenor.com/kF_GVQ3P6o8AAAAC/dancing-cat.gif)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400px" alt="GitHub Header" />
+</div>
+
+
 
 <h1 align="center">
-  Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="30" height="30" /> I'm Gourav
+  Hi there 
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="hi" height="30" />, 
+  I'm Gourav Yadav
 </h1>
-<h3 align="center">Software Engineer @ Autodesk | Full Stack Developer | Cloud & AI Specialist</h3>
+<h3 align="center">Software Engineer @ Autodesk | AI & Cloud Enthusiast | Full Stack Developer </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gouravdev&label=Profile%20views&color=2ea44f&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gouravyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="gouravyadavv" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💼 About Me
 
-- 🔭 Currently working at **Autodesk** building AI-powered tools and scalable cloud infrastructure
-- 🛠️ Passionate about **full-stack web applications** and **cloud solutions**
-- 🚀 Focused on creating efficient, maintainable, and scalable software
-- 🌱 Always learning: currently exploring **AI/ML integrations** and **advanced cloud architectures**
-- 💬 Ask me about **React, TypeScript, Cloud Solutions, and System Design**
-- ✨ Fun fact: When I'm not coding, I'm probably thinking about coding
+- 🔭 SDE at **Autodesk**
+- 👨‍💻 I'm focused on building **cost-efficient, scalable, and intelligent cloud solutions**
+- 💡 I love working with **Python, AWS, Docker, Kubernetes, Flask, Django, FastAPI**, and **Machine Learning**
+- 🚀 I've built projects around **AWS optimization**, **Web Application**, and **Slack Bot**
+- 🧠 Constantly learning and growing in **Cloud, AI/ML**, and **Full Stack Development**
+- 🏆 LeetCode AIR 341 in Weekly Contest 380
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gourav-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://leetcode.com/Gourav-2002/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Leetcode-Gourav--2002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://twitter.com/gouravdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+
+  <a href="https://www.geeksforgeeks.org/user/gouravyadl7gl/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gouravyadl7gl-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://gourav-portfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+
+  <a href="https://www.linkedin.com/in/gourav-yadav-9b42481b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gourav--Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+
+
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-#### Languages & Frameworks
+#### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,js,mysql,html,css,mongodb,linux" />
   </a>
 </p>
 
 #### Cloud & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,dynamodb" />
   </a>
 </p>
 
-#### Tools & Technologies
+#### Tools & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,mongodb,postgres,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=django,sklearn,flask,fastapi,bootstrap,dynamodb,github,kubernetes,mysql,notion,postgres,vscode" />
   </a>
 </p>
-
----
-
-### 🏆 Recent Achievements
-
-- 🌟 Successfully implemented AI-powered features that improved workflow efficiency by 35%
-- 💼 Led the development of scalable cloud infrastructure supporting millions of users
-- 📊 Reduced AWS infrastructure costs by 25% through optimization and architecture improvements
-- 🚀 Contributed to open source projects with over 500+ stars on GitHub
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouravdev&show_icons=true&theme=github_dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravdev&theme=github-dark-blue" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravdev&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravyadavv&show_icons=true&theme=tokyonight" alt="Gourav's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravyadavv&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+### 🐍 Contribution Snake
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouravdev&repo=ai-powered-analytics&theme=github_dark)](https://github.com/gouravdev/ai-powered-analytics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouravdev&repo=cloud-cost-optimizer&theme=github_dark)](https://github.com/gouravdev/cloud-cost-optimizer)
-
----
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://github.com/gouravdev/gouravdev/blob/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
-### 📫 Get In Touch
+### 📫 Let's Collaborate
 
-I'm always interested in collaborating on exciting projects related to web development, cloud solutions, or AI integration.
-
-📧 **Email:** gourav.dev@example.com  
-🌐 **Website:** [gourav-portfolio.dev](https://gourav-portfolio.dev)
+I'm always open to exciting projects in **Cloud, AI/ML, Automation, or Open Source**.
+Feel free to reach out: **Gouravyadav200220@gmail.com**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
