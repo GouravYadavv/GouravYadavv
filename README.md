@@ -1,7 +1,7 @@
 ![Header](https://media.tenor.com/kF_GVQ3P6o8AAAAC/dancing-cat.gif)
 
 <h1 align="center">Hi there 👋, I'm Gourav Yadav</h1>
-<h3 align="center">Software Engineer Intern @ Autodesk | AI & Cloud Enthusiast | LeetCode AIR 341</h3>
+<h3 align="center">Software Engineer @ Autodesk | AI & Cloud Enthusiast | Full Stack Developer </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gouravyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="gouravyadavv" />
@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://leetcode.com/Gourav-2002/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-Gourav--2002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=leetcode" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/gouravyadl7gl/" target="_blank">
@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/gourav-yadav-9b42481b4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Gourav%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
