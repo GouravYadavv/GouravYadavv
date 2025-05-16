@@ -69,7 +69,7 @@
 #### Tools & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,sklearn,flask,fastapi,bootstrap,dynamodb,github,kubernetes,mysql,notion,postgres,vscode" />
+    <img src="https://skillicons.dev/icons?i=django,react,sklearn,flask,fastapi,bootstrap,dynamodb,github,kubernetes,mysql,notion,postgres,vscode" />
   </a>
 </p>
 
